@@ -1,0 +1,209 @@
+Parameters:
+Client key    = NzspjS8F9PrxrRVM8NnCbNtVPKuSH9WGA6RC6jIKmAQ
+Query         = gates
+Precision     = 0.9
+URL: https://api.datamarket.azure.com/Bing/Search/Web?Query=%27gates%27&$top=10&$format=Atom
+Total no of results: 10
+Bing Search Result:
+============================
+Result 1
+[
+ URL: http://www.gates.com/
+ Title: Gates Corporation
+ Summary: Gates Corporation is Powering Progress‚Ñ¢ in the Oil & Gas, Energy, Mining, Marine, Agriculture, Transportation and Automotive Industries.
+]
+
+Relevant (Y/N)?
+n
+Result 2
+[
+ URL: http://www.gateschevyworld.com/
+ Title: Gates Chevy World - Mishawaka, Elkhart, South Bend
+ Summary: Gates Chevy World in Mishawaka serves South Bend, Michiana and Elkhart Chevrolet customers with new and used vehicles. Stop by for a test drive today!
+]
+
+Relevant (Y/N)?
+n
+Result 3
+[
+ URL: http://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Agates
+ Title: Amazon.com: gates
+ Summary: Product Description... Easy Open Extra Wide Safety Gate boasts 100 percent steel ...
+]
+
+Relevant (Y/N)?
+n
+Result 4
+[
+ URL: http://www.gates.com/industries/automotive
+ Title: Gates Automotive Aftermarket Solutions | Gates Corporation
+ Summary: Gates offers a complete line of original equipment (OE) automotive aftermarket products and solutions, including automotive hose, belts, & accessories.
+]
+
+Relevant (Y/N)?
+n
+Result 5
+[
+ URL: https://www.facebook.com/gatesnj
+ Title: gates | Facebook
+ Summary: Kevin Dye from Gates performs an acoustic version of the very first song Gates wrote together. He also discusses how he started playing music, ...
+]
+
+Relevant (Y/N)?
+n
+Result 6
+[
+ URL: http://www.gatecrafters.com/design_your_gates.aspx
+ Title: Driveway Gates | Automatic Gates | Electric Gates
+ Summary: Driveway Gates - Automatic Gates The high-quality driveway gates from GateCrafters.com come in a wide variety of options to ...
+]
+
+Relevant (Y/N)?
+n
+Result 7
+[
+ URL: http://navigates.gates.com/
+ Title: NaviGates - Gates Corporation
+ Summary: Gates high quality belt & hose solutions support your energy, exploration, extraction, infrastructure, agriculture & transportation needs.
+]
+
+Relevant (Y/N)?
+n
+Result 8
+[
+ URL: http://www.gatesbbq.com/
+ Title: Gates Bar B.Q.
+ Summary: With the tantalizing hickory barbecue smell drawing the customer through the ranch-style doors, he is immediately greeted.
+]
+
+Relevant (Y/N)?
+n
+Result 9
+[
+ URL: http://www.toysrus.com/family/index.jsp?categoryId=2256222
+ Title: Baby Gates - Babies"R"Us
+ Summary: Safe & durable baby gates will keep your baby safe. Choose from a large assortment of baby gates including extra wide gates to suit your needs. Shop today.
+]
+
+Relevant (Y/N)?
+n
+Result 10
+[
+ URL: http://en.wikipedia.org/wiki/Bill_Gates
+ Title: Bill Gates - Wikipedia, the free encyclopedia
+ Summary: William Henry "Bill" Gates III (born October 28, 1955) is an American business magnate, philanthropist, investor, computer programmer, and inventor. Gates originally ...
+]
+
+Relevant (Y/N)?
+y
+============================
+FEEDBACK SUMMARY
+Query gates
+Precision 0.1
+Still bellow the desired precision of 0.9
+Indexin results ...
+Indexin results ...
+Augmenting by  bill william
+Parameters:
+Client key    = NzspjS8F9PrxrRVM8NnCbNtVPKuSH9WGA6RC6jIKmAQ
+Query         = bill gates william
+Precision     = 0.9
+URL: https://api.datamarket.azure.com/Bing/Search/Web?Query=%27bill+gates+william%27&$top=10&$format=Atom
+Total no of results: 10
+Bing Search Result:
+============================
+Result 1
+[
+ URL: http://en.wikipedia.org/wiki/Bill_Gates
+ Title: Bill Gates - Wikipedia, the free encyclopedia
+ Summary: William Henry "Bill" Gates III (born October 28, 1955) is an American business magnate, philanthropist, investor, computer programmer, and inventor. Gates originally ...
+]
+
+Relevant (Y/N)?
+y
+Result 2
+[
+ URL: http://www.biography.com/people/bill-gates-9307520
+ Title: Bill Gates - Biography - - Biography.com
+ Summary: Entrepreneur Bill Gates founded the world's largest software business, Microsoft, with Paul Allen, and subsequently became one of the richest men in the world.
+]
+
+Relevant (Y/N)?
+y
+Result 3
+[
+ URL: http://en.wikipedia.org/wiki/William_H._Gates,_Sr.
+ Title: William H. Gates, Sr. - Wikipedia, the free encyclopedia
+ Summary: William Henry "Bill" Gates, Sr. (born William Henry Gates II ; November 30, 1925) is a retired American attorney and philanthropist and author of the book Showing Up ...
+]
+
+Relevant (Y/N)?
+n
+Result 4
+[
+ URL: http://news.microsoft.com/exec/billg/
+ Title: Bill Gates Keynote: Microsoft Tech‚Ä¢Ed 2008 ...
+ Summary: BILL GATES: Good morning and welcome to Tech‚Ä¢Ed. This is the first year that we broke Tech‚Ä¢Ed into two sections, the section this week, which is just ...
+]
+
+Relevant (Y/N)?
+y
+Result 5
+[
+ URL: http://www.forbes.com/profile/bill-gates/
+ Title: Bill Gates - Forbes - Information for the World's Business ...
+ Summary: America's richest man, Bill Gates, is using his billions to effect major social change around the globe. The Bill & Melinda Gates Foundation has given away $30 ...
+]
+
+Relevant (Y/N)?
+y
+Result 6
+[
+ URL: http://www.bloomberg.com/research/stocks/people/person.asp?personId=181600&ticker=MSFT
+ Title: William Henry Gates III: Executive Profile & Biography ...
+ Summary: Background* Mr. William Henry Gates, III, also known as Bill, co-founded Microsoft Corporation in 1975 and has been its Technology Advisor since February 4, 2014.
+]
+
+Relevant (Y/N)?
+y
+Result 7
+[
+ URL: http://www.gatesnotes.com/
+ Title: Home | Bill Gates
+ Summary: The blog of Bill Gates. gates notes. The blog of Bill Gates. ... About Bill. All Posts. Follow. Like. Subscribe. Contact. SHARE ` Like. Tweet. Share. Submit. E-mail.
+]
+
+Relevant (Y/N)?
+y
+Result 8
+[
+ URL: http://www.gatesnotes.com/Bio
+ Title: Bio | Bill Gates
+ Summary: Bill Gates is a technologist, business leader, and philanthropist. He grew up in Seattle, Washington, with an amazing and supportive family who encouraged his ...
+]
+
+Relevant (Y/N)?
+y
+Result 9
+[
+ URL: http://news.microsoft.com/exec/bill-gates/
+ Title: Bill Gates | News Center
+ Summary: William (Bill) H. Gates is founder, technology advisor and board member of Microsoft Corporation, the worldwide leader in software, services and solutions that help ...
+]
+
+Relevant (Y/N)?
+y
+Result 10
+[
+ URL: https://twitter.com/billgates
+ Title: Bill Gates (BillGates) on Twitter - Welcome to Twitter ...
+ Summary: Bill Gates @ BillGates ¬∑ Feb 2 Here‚Äôs how banking is changing for people across the world & why it matters: http:// b-gat.es/1zzOSNj pic.twitter.com/5IZoqzAD26.
+]
+
+Relevant (Y/N)?
+y
+============================
+FEEDBACK SUMMARY
+Query bill gates william
+Precision 0.9
+Desired precision reached, done
